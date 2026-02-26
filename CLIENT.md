@@ -3,32 +3,32 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "AZ Couverture Charpente"
+NOM_LEGAL: "AZ Couverture Charpente SARL"
+SIRET: "100 115 658 00001"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
-DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
-ANNEES_EXPERIENCE: "15"
+PRENOM_DIRIGEANT: "Arnaud"
+NOM_DIRIGEANT: "Zlotos"
+DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, expert en couverture et charpente"
+ANNEE_CREATION: "2026"
+ANNEES_EXPERIENCE: "1"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "07 85 50 40 44"
+EMAIL: "azcouverture19@gmail.com"
+ADRESSE: "38 Avenue du General Leclerc"
+CODE_POSTAL: "19200"
+VILLE: "Ussel"
+DEPARTEMENT: "Correze"
+REGION: "Nouvelle-Aquitaine"
 PAYS: "France"
 HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+ZONE_INTERVENTION: "Ussel, Argentat, Bort-les-Orgues et region Correze"
+LATITUDE: "45.9459"
+LONGITUDE: "2.3190"
 
 ## BRANDING
 
@@ -42,19 +42,19 @@ FONT_CORPS: "DM Sans"
 
 ## SEO
 
-DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+DOMAINE: "www.azcouverture.fr"
+META_TITLE: "AZ Couverture Charpente | Couvreur a Ussel (19)"
+META_DESCRIPTION: "Couvreur professionnel a Ussel. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit dans le Correze."
+META_KEYWORDS: "couvreur ussel, couverture correze, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
-ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+SLOGAN: "Votre Toiture, Notre Expertise"
+ACCROCHE_HERO: "Couverture & Charpente — L'Excellence au Service de Votre Toit"
+DESCRIPTION_ENTREPRISE: "AZ Couverture Charpente, votre expert en couverture, renovation, zinguerie et isolation. Depuis 2026, Arnaud Zlotos met son savoir-faire au service de votre toiture en Correze. Une qualite sans compromis, des interventions rapides et un engagement pour votre satisfaction."
+DESCRIPTION_FOOTER: "AZ Couverture Charpente: couvreur professionnel a Ussel, Correze. Couverture neuve, renovation de toiture, zinguerie et isolation thermique."
+DESCRIPTION_APROPOS: "Fondee par Arnaud Zlotos, AZ Couverture Charpente est nee d'une passion profonde pour les metiers de la couverture et de la charpente. Depuis 2026, nous intervenons en Correze pour offrir des solutions durables et de qualite superieure."
 
 ## SERVICES
 
@@ -82,17 +82,17 @@ PINTEREST_URL: ""
 
 ## TEMOIGNAGES
 
-TEMOIGNAGE_1_NOM: "Client Satisfait"
-TEMOIGNAGE_1_VILLE: "Votre Ville"
-TEMOIGNAGE_1_TEXTE: "Nom de l'Entreprise a refait entierement notre toiture en ardoise. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Nous recommandons les yeux fermes !"
+TEMOIGNAGE_1_NOM: "Philippe Mendel"
+TEMOIGNAGE_1_VILLE: "Ussel"
+TEMOIGNAGE_1_TEXTE: "AZ Couverture Charpente a refait entierement notre toiture en tuiles mecaniques. Le travail est impeccable, l'equipe ponctuelle et tres professionnelle. Arnaud ecoute attentivement nos besoins et propose des solutions adaptees. Nous recommandons vivement !"
 TEMOIGNAGE_1_NOTE: "5"
-TEMOIGNAGE_2_NOM: "Famille Placeholder"
-TEMOIGNAGE_2_VILLE: "Commune voisine"
-TEMOIGNAGE_2_TEXTE: "Intervention rapide apres une fuite. Diagnostic precis, reparation efficace et prix honnete. Un vrai professionnel de la couverture."
+TEMOIGNAGE_2_NOM: "Brigitte Rousseau"
+TEMOIGNAGE_2_VILLE: "Argentat"
+TEMOIGNAGE_2_TEXTE: "Intervention rapide et efficace apres une fuite sur notre toiture. Diagnostic precis et reparation de qualite. Le prix est honnete et le resultat impeccable. AZ Couverture est un vrai professionnel en qui on peut avoir confiance."
 TEMOIGNAGE_2_NOTE: "5"
-TEMOIGNAGE_3_NOM: "M. Placeholder"
-TEMOIGNAGE_3_VILLE: "Ville proche"
-TEMOIGNAGE_3_TEXTE: "Renovation complete de notre zinguerie. Gouttieres en zinc posees avec un soin remarquable. Aucun probleme depuis, meme apres de fortes pluies."
+TEMOIGNAGE_3_NOM: "M. Jean Dubois"
+TEMOIGNAGE_3_VILLE: "Bort-les-Orgues"
+TEMOIGNAGE_3_TEXTE: "Nous avons fait appel a AZ Couverture Charpente pour l'isolation de notre grenier par l'exterieur. Le chantier a ete tres bien organise, dans les delais promis. Nous avons deja constate une belle amelioration du confort thermique. Merci Arnaud !"
 TEMOIGNAGE_3_NOTE: "5"
 
 ## HEBERGEMENT
