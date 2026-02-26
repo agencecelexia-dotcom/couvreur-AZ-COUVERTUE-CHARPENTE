@@ -5,13 +5,13 @@ import { clientConfig } from "@/config/client.config";
 
 const zones = [
   { name: clientConfig.VILLE, type: "principale" as const },
-  { name: "Commune Nord", type: "secondaire" as const },
-  { name: "Commune Sud", type: "secondaire" as const },
-  { name: "Commune Est", type: "secondaire" as const },
-  { name: "Commune Ouest", type: "secondaire" as const },
-  { name: "Quartier Centre", type: "secondaire" as const },
-  { name: "Zone Périphérique A", type: "secondaire" as const },
-  { name: "Zone Périphérique B", type: "secondaire" as const },
+  { name: "Argentat", type: "secondaire" as const },
+  { name: "Bort-les-Orgues", type: "secondaire" as const },
+  { name: "Meymac", type: "secondaire" as const },
+  { name: "Egletons", type: "secondaire" as const },
+  { name: "Tulle", type: "secondaire" as const },
+  { name: "Lapleau", type: "secondaire" as const },
+  { name: "Lubersac", type: "secondaire" as const },
 ];
 
 export default function ZoneIntervention() {
